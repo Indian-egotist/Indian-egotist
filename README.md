@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @Indian-egotist
-- I am ecited and interested to work as a team on every tech project
-- 👀 I’m interested in Android Development,AI Prompting,Data Analysis & App Development...
-- 🌱 I’m currently learning ANdroid Development using Kotlin,Composable & AI chatbots...
-- 💞️ I’m looking to collaborate on Tech projects, I am a fast learner and the best asset, experience in Android Projects using kotlin...
-- 📫 How to reach me here's the solution: mail at jborsiwala@gmail.com , 12302040701074@mbit.edu.in...
-- 😄 Pronouns: India-egotist or future star developer...
-- ⚡ Fun fact: Pursuing B.Tech from India and Learning Android Development, Computer Programming, Assembly Language, Script language and Smartphone specification from Globe...
+
+I am interested to be a Cloud Developer, I have my Networking learning from Alison Academy taught by Christopher Chapman. Linux- bash Scripting from Redhat Coursera course and Cloud Computing Skills from AWS Academy. I am looking forward for internships & job roles as Cloud Engineer || System Administrator || Project Assistant intern.
+
+Contact me for any work related App/Web Deployment, System Administrative role, Project Manager role, AI-Proompt Engineering, Communication tasks and any other Intersted topic to discuss. My field of Interested Technology, Geo-politics, Cooking, Video Creation/editing, Outgoing & Gym Workout.
+I am passionate to have international friends from different culture & field.
+
+I am currently in my Final Year of Bachleor's in Technology, Computer Engineering Department from MBIT, CVM University, New V.V.Nagar, Anand, Gujarat, India.
+I am Confident candidate with excellent communication skills, completed my Higher Secondary High School from PODAR INTERNATIONAL SCHOOL.
 
 <!---
 Indian-egotist/Indian-egotist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
